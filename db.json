@@ -1,0 +1,124 @@
+{
+	"top": {
+		"marathonLink": "https://marathon.kharkov.ua/",
+		"marathonLogo": "logo-mc.svg"
+	},
+	"main": {
+		"header": {
+			"bannerPayment": {
+				"title": "Номер карты для благотворительного взноса 200 гривен",
+				"distances": "забеги на дистанциях 5км и 21км",
+				"card": "5168742230126462",
+				"phone": "При отправке взноса, звонить на номер телефона: 0503232875",
+				"description": "Обязательно во время отправки взноса сообщать в личку на FB фамилию, имя, дистанцию, клуб и дату рождения",
+				"name": "Татьяна Маркова",
+				"socialLink": "https://www.facebook.com/markova.kharkov",
+				"socialText": "Моя страница Facebook"
+			},
+			"steadyTimer": {
+				"title": "До старта",
+				"text": "осталось:",
+				"timerDays": "Дней",
+				"timerHours": "Часов",
+				"timerMinutes": "Минут",
+				"timerSeconds": "Секунд"
+			},
+			"knowMore": "Узнать больше",
+			"projectLogo": {
+				"src": "project-logo.svg",
+				"alt": "Навстречу зиме"
+			},
+			"headerBackground": {
+				"url": "zima.jpg"
+			}
+		},
+		"profile": {
+			"title": "Немного информации о людях на пробеге Настречу зиме",
+			"text1": "Все сборы от забега пойдут на лечение Руслану Гелете.",
+			"text2": "Про чемпионов, а также оранизаторов:",
+			"members": [
+				{
+					"id": "1",
+					"remark": "",
+					"name": "Александр Чеперис",
+					"text": "Регистрация на участие",
+					"img": "cheperis.jpg",
+					"alt": "Александр Чеперис"
+				},
+				{
+					"id": "2",
+					"remark": "",
+					"name": "Светлана Гелета",
+					"text": "Регистрация на участие",
+					"img": "sv-geleta.jpg",
+					"alt": "Светлана Гелета"
+				},
+				{
+					"id: "3",
+					"remark": "Ради кого бежим?!",
+					"name": "Руслан Гелета",
+					"text": "Регистрация на участие",
+					"img": "ru-geleta.jpg",
+					"alt": "Руслан Гелета"
+				},
+				{
+					"id": "4",
+					"remark": "",
+					"name": "Татьяна Маркова",
+					"text": "Регистрация на участие",
+					"img": "markova.jpg",
+					"alt": "Татьяна Маркова"
+				}
+			]
+		},
+		"scheme": {
+			"backgroundImage": "results-bg.jpg",
+			"title": "В процессе вас ждет:",
+			"schemeItems": [
+				{ "id": "1", "img": "res_1.svg", "sign": "Регистрация на участие", "alt": "pic_1" },
+				{ "id": "2", "img": "res_3.svg", "sign": "Разминка перед стартом", "alt": "pic_3" },
+				{ "id": "3", "img": "res_7.svg", "sign": "Забеги на дистанциях", "alt": "pic_7" },
+				{ "id": "4", "img": "res_6.svg", "sign": "Награждение", "alt": "pic_6" }
+			]
+		},
+		"locations": {
+			"mapTitle": "Трасса расположена радом с Велоцентр Белгородское шоссе, 1",
+			"mapSource": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2562.92008278429!2d36.26264949999999!3d50.0315933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a6d838b0a8d7%3A0x756b5f3c6e577de4!2z0JHQtdC70LPQvtGA0L7QtNGB0LrQvtC1INGILiwgMSwg0KXQsNGA0YzQutC-0LIsINCl0LDRgNGM0LrQvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwsIDYxMDAw!5e0!3m2!1sru!2sua!4v1637480989848!5m2!1sru!2sua",
+			"imageTitle": "Забеги на дистанциях 5 и 21 километр будут проходить 5 декабря (воскресенье) в 10:00. Старт от Велоцентр Белгородское шоссе, 1.",
+			"imageSource": "locations-map.jpg",
+			"imageAlt": "Карта парка Зеленый гай",
+			"conditions": [
+				{ "id": "1", "item": "Участники: все желающие от 16 лет" },
+				{ "id": "2", "item": "мандатная комиссия с 8.30,старт общий на дистанции 5 и 21 км в 10 часов утра" },
+				{ "id": "3", "item": "Условия подведения итогов:",
+					"details": [
+						{ "id": "1", "detail": "а) абсолют" },
+						{ "id": "2", "detail": "б) категории: 16-18 лет,19- 22, 23-39, 40+, 50+, 60+, 70 +" },
+						{ "id": "3", "detail": "в) определение лучшей команды по 10 лучшим результатам" }
+					]
+				},
+				{ "id": "4", "item": "Награждение:",
+					"details": [
+						{ "id": "1", "detail": "Все участники получают медали, абсолютные победители спецмедали, грамоты" },
+						{ "id": "2", "detail": "Победители в группе - грамоты" },
+						{ "id": "3", "detail": "Первые 3 команды награждаются кубками и грамотами" }
+					]
+				}
+			]
+		}
+	},
+	"footer": {
+		"title1": "О нас",
+		"text": "Соревнования будут проходить 5 декабря 2021 года в 10:00 в Шевченковском районе города Харькова. Локация насыщена живописными видами, местами отдыха для взрослых и детей",
+		"link1": "https://www.facebook.com/markova.kharkov",
+		"link2": "https://www.instagram.com/markovakharkov/",
+		"title2": "Контакты",
+		"address": "Велоцентр Белгородское шоссе, 1",
+		"phone": "0503232875",
+		"phonePre": "tel:+38",
+		"mail": "markova.kharkov@gmail.com",
+		"mailPre": "mailto:",
+		"authorSite": "http://viktor-l-portfolio.zzz.com.ua/",
+		"author": "Viktorres"
+	}
+}
